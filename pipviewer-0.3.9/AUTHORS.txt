@@ -1,0 +1,10 @@
+
+Yannick Gingras <ygingras@ygingras.net>
+  - original implementation
+
+Mahdi Belcaid <b.mahdi@gmail.com>
+  - original probes scoring and validation
+
+François Massé <masse.franky26@gmail.com>
+  - many bug fixes
+  - current maintainter
